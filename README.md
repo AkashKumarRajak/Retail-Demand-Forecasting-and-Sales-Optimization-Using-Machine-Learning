@@ -12,18 +12,18 @@ Retailers often face issues in forecasting product demand across stores and depa
 
 ## Project Structure
 
-Retail-Demand-Forecasting
+Retail-Demand-Forecasting<br>
 │
-├── Retail Demand Forecasting and Sales Optimization Using Machine Learning.ipynb
-├── train.csv
-├── test.csv
-├── features.csv
-├── stores.csv
-├── sampleSubmission.csv
-├── random_forest_model.pkl
-├── random_forest_sales_model.pkl
-├── xgboost_sales_model.pkl
-└── README.md
+├── Retail Demand Forecasting and Sales Optimization Using Machine Learning.ipynb<br>
+├── train.csv<br>
+├── test.csv<br>
+├── features.csv<br>
+├── stores.csv<br>
+├── sampleSubmission.csv<br>
+├── random_forest_model.pkl<br>
+├── random_forest_sales_model.pkl<br>
+├── xgboost_sales_model.pkl<br>
+└── README.md<br>
 
 
 ---
@@ -136,8 +136,5 @@ Akash Kumar
 - LinkedIn: [linkedin.com/in/akash-kumar-786](https://www.linkedin.com/in/akash-kumar-rajak-22a98623b/)
 - GitHub: https://github.com/AkashKumarRajak
   
----
 
-## License
-This project is licensed under the MIT License.
 
