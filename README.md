@@ -112,6 +112,32 @@ Models are saved as:
    - Submission file generated using model output
 
 ---
+## Business Impact
+- This machine learning–based forecasting system provides real business value by empowering retail decision-makers with accurate and actionable insights:
+
+1. **Inventory & Stock Optimization**
+   - Enables more accurate stock forecasting, reducing both overstocking and stockouts.
+   - Supports optimized warehouse-to-store allocation, ensuring the right inventory reaches the right locations with minimal cost.
+   - Reduces waste and improves inventory turnover, especially for perishable or seasonal items.
+
+2. **Operational Efficiency**
+   - Improves demand visibility across stores and departments, aiding in supply chain planning, staffing, and store readiness.
+   - Assists in automating replenishment planning, saving manual effort and increasing consistency.
+
+3. **Promotion & Sales Performance Insights**
+   - Helps in promotion planning by identifying how markdowns and holidays affect sales.
+   - Enables tracking of campaign effectiveness, informing future marketing strategies.
+   - Enhances sales predictions around seasonal or event-driven demand surges.
+
+4. **Revenue Uplift & Cost Reduction**
+   - Leads to improved sales forecasting accuracy, resulting in better financial planning.
+   - Reduces revenue leakage by minimizing missed sales due to stockouts or poor promotion timing.
+
+5. **Improved Customer Satisfaction**
+   - Ensures better product availability, especially during peak seasons or campaigns.
+   - Contributes to enhanced customer experience and brand loyalty.
+
+---
 
 ## Conclusion
 
